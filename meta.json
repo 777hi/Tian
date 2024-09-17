@@ -10,6 +10,15 @@
                 "modrinth": "https://modrinth.com/modpack/tian/"
             }
         }
+    },
+         {
+        "id": "1.2.4",
+        "releasedAt": 1726582567000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/tian/"
+            }
+        }
     }
   ]
 }
